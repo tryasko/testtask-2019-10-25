@@ -1,17 +1,17 @@
 ### Тестовое задание: «Список задач»
 Необходимо реализовать на чистом JavaScript или React.js список задач.
 Список должен содержать следующие столбцы: **number**, **object icon**, **name**, **description**, **delete icon**;
-Должна быть возможность удалять элементы из списка по клику по иконке ![](./screenshots/Screenshot at Oct 25 13-53-52.png)
+Должна быть возможность удалять элементы из списка по клику по иконке ![](https://raw.githubusercontent.com/tryasko/testtask-2019-10-25/master/screenshots/Screenshot%20at%20Oct%2025%2013-53-52.png)
 
 Скриншот потобного списка: 
-![](./screenshots/Screenshot at Oct 23 15-53-35.png)
+![](https://raw.githubusercontent.com/tryasko/testtask-2019-10-25/master/screenshots/Screenshot%20at%20Oct%2023%2015-53-35.png)
 
-Для того чтоб создать новый элемент списка нужно кликнуть по иконке ![](./screenshots/Screenshot at Oct 25 13-53-35.png)
+Для того чтоб создать новый элемент списка нужно кликнуть по иконке ![](https://raw.githubusercontent.com/tryasko/testtask-2019-10-25/master/screenshots/Screenshot%20at%20Oct%2025%2013-53-35.png)
 Должно открыться модальное окно в котором должны быть два поля ввода для **name** и **description**. Данные сохраняются и добавляются в список по клику по кнопке **Save**, окно закрывается.
 Кнопка **Cancel** и крестик просто закрывют модальное окно без сохранения.
 
 Скриншот модального окна:
-![](./screenshots/Screenshot at Oct 23 15-54-11.png)
+![](https://raw.githubusercontent.com/tryasko/testtask-2019-10-25/master/screenshots/Screenshot%20at%20Oct%2023%2015-54-11.png)
 
 Данные для спика нужно хранить в **localStorage** чтоб при перезагрузке страницы они не терялись и была возможность продолжить работу с списком задач.
 Код тестового задания необходимо выложить на у себя на [https://github.com/](https://github.com/) и дать ссылку. Важно соблюдать историю коммитов и давать им понятное описание.
